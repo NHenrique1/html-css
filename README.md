@@ -3,4 +3,4 @@
 
 Estou aprendendo a criar sites e agora vou gerenciar meus repositórios
 
-<a href='https://github.com/NHenrique1/html-css/tree/main/HTML%20%2B%20CSS%202-5/Projeto'>
+<a href='https://github.com/NHenrique1/html-css/HTML + CSS 2-5/Projeto/android.html'> Executar o Projeto
